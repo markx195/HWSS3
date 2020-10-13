@@ -44,23 +44,23 @@
 
 
 //Ex15
-while(true) {
-let n = prompt(`How many legs does a spider have ?
-    1. None
-    2. 4 legs
-    3. 8 legs
-    4. 12 legs`)
-    if(n == 3){
-        alert("Bravo, you are correct");
-    break;
-    }
-    else if(n != 3 && n != 1 && n != 2 && n != 4){
-        alert("Hahaha, try again")
-    }
-    else{
-        alert("Good luck next time");
-    }
-}
+// while(true) {
+// let n = prompt(`How many legs does a spider have ?
+//     1. None
+//     2. 4 legs
+//     3. 8 legs
+//     4. 12 legs`)
+//     if(n == 3){
+//         alert("Bravo, you are correct");
+//     break;
+//     }
+//     else if(n != 3 && n != 1 && n != 2 && n != 4){
+//         alert("Hahaha, try again")
+//     }
+//     else{
+//         alert("Good luck next time");
+//     }
+// }
 
 
 
